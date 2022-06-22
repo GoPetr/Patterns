@@ -12,6 +12,7 @@ public class XiaomiSmartphoneBuilder extends SmartphoneBuilder {
     smartphone.setRam(8);
   }
 
+
   @Override
   void buildDisplaySize() {
     smartphone.setDisplaySize(6);
